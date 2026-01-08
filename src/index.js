@@ -10,7 +10,7 @@ root.render(
   
     {/* <App /> */}
      {/* REACT STATESTATE EXAMPLE */}
-    <HookApp />
+    <HookPractise />
   </React.StrictMode>
 );
 
